@@ -1,0 +1,15 @@
+.threshold-slider {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .threshold-slider input {
+    width: 150px;
+    cursor: pointer;
+  }
+  
+  .threshold-slider label {
+    font-size: 14px;
+  }
+  

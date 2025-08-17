@@ -1,0 +1,28 @@
+.layer-selector {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+  }
+  
+  .layer-boxes {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    margin-left: 10px;
+  }
+  
+  .layer-box {
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    background-color: white;
+  }
+
+  .layer-box.selected {
+    background-color: lightgrey;
+  }
+  
