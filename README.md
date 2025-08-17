@@ -1,6 +1,6 @@
 # Enhanced Visualization of Cosine Similarity for Bias Detection Across Multiple ML Models
-
-[[_TOC_]]
+<!-- 
+[[_TOC_]] -->
 
 
 ## Project Goal 
